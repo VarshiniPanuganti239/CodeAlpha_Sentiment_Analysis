@@ -184,25 +184,26 @@ CodeAlpha_Sentiment_Analysis/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home_page.png)
+<img width="950" height="526" alt="Home Page" src="https://github.com/user-attachments/assets/65412d6f-33b9-47ba-a36e-39d0778adae4" />
 
 ---
 
 ### 😊 Positive Prediction
 
-![Positive Prediction](screenshots/positive_prediction.png)
+<img width="955" height="535" alt="Positive Prediction" src="https://github.com/user-attachments/assets/1b3f2b7b-03b4-4e4c-a83d-ff6f118d395f" />
+
 
 ---
 
 ### 😐 Neutral Prediction
 
-![Neutral Prediction](screenshots/neutral_prediction.png)
+<img width="955" height="528" alt="Neutral Prediction" src="https://github.com/user-attachments/assets/bb68c25e-ef8c-41ab-8cac-5ecff6863269" />
 
 ---
 
 ### 😞 Negative Prediction
 
-![Negative Prediction](screenshots/negative_prediction.png)
+<img width="951" height="560" alt="Negative Prediction" src="https://github.com/user-attachments/assets/dfc68690-7a6d-4cb2-bbf3-05062f6c0f3f" />
 
 ---
 
